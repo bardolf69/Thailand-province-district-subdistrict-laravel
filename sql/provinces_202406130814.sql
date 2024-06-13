@@ -1,0 +1,85 @@
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (10,'กรุงเทพมหานคร','Bangkok',NULL,NULL),
+	 (11,'สมุทรปราการ','Samut Prakarn',NULL,NULL),
+	 (12,'นนทบุรี','Nonthaburi',NULL,NULL),
+	 (13,'ปทุมธานี','Pathum Thani',NULL,NULL),
+	 (14,'พระนครศรีอยุธยา','Phra Nakhon Si Ayutthaya',NULL,NULL),
+	 (15,'อ่างทอง','Ang Thong',NULL,NULL),
+	 (16,'ลพบุรี','Lop Buri',NULL,NULL),
+	 (17,'สิงห์บุรี','Sing Buri',NULL,NULL),
+	 (18,'ชัยนาท','Chai Nat',NULL,NULL),
+	 (19,'สระบุรี','Saraburi',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (20,'ชลบุรี','Chon Buri',NULL,NULL),
+	 (21,'ระยอง','Rayong',NULL,NULL),
+	 (22,'จันทบุรี','Chanthaburi',NULL,NULL),
+	 (23,'ตราด','Trat',NULL,NULL),
+	 (24,'ฉะเชิงเทรา','Chachoengsao',NULL,NULL),
+	 (25,'ปราจีนบุรี','Prachin Buri',NULL,NULL),
+	 (26,'นครนายก','Nakhon Nayok',NULL,NULL),
+	 (27,'สระแก้ว','Sa kaeo',NULL,NULL),
+	 (30,'นครราชสีมา','Nakhon Ratchasima',NULL,NULL),
+	 (31,'บุรีรัมย์','Buri Ram',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (32,'สุรินทร์','Surin',NULL,NULL),
+	 (33,'ศรีสะเกษ','Si Sa Ket',NULL,NULL),
+	 (34,'อุบลราชธานี','Ubon Ratchathani',NULL,NULL),
+	 (35,'ยโสธร','Yasothon',NULL,NULL),
+	 (36,'ชัยภูมิ','Chaiyaphum',NULL,NULL),
+	 (37,'อำนาจเจริญ','Amnat Charoen',NULL,NULL),
+	 (38,'บึงกาฬ','Bueng Kan',NULL,NULL),
+	 (39,'หนองบัวลำภู','Nong Bua Lam Phu',NULL,NULL),
+	 (40,'ขอนแก่น','Khon Kaen',NULL,NULL),
+	 (41,'อุดรธานี','Udon Thani',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (42,'เลย','Loei',NULL,NULL),
+	 (43,'หนองคาย','Nong Khai',NULL,NULL),
+	 (44,'มหาสารคาม','Maha Sarakham',NULL,NULL),
+	 (45,'ร้อยเอ็ด','Roi Et',NULL,NULL),
+	 (46,'กาฬสินธุ์','Kalasin',NULL,NULL),
+	 (47,'สกลนคร','Sakon Nakhon',NULL,NULL),
+	 (48,'นครพนม','Nakhon Phanom',NULL,NULL),
+	 (49,'มุกดาหาร','Mukdahan',NULL,NULL),
+	 (50,'เชียงใหม่','Chiang Mai',NULL,NULL),
+	 (51,'ลำพูน','Lamphun',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (52,'ลำปาง','Lampang',NULL,NULL),
+	 (53,'อุตรดิตถ์','Uttaradit',NULL,NULL),
+	 (54,'แพร่','Phrae',NULL,NULL),
+	 (55,'น่าน','Nan',NULL,NULL),
+	 (56,'พะเยา','Phayao',NULL,NULL),
+	 (57,'เชียงราย','Chiang Rai',NULL,NULL),
+	 (58,'แม่ฮ่องสอน','Mae Hong Son',NULL,NULL),
+	 (60,'นครสวรรค์','Nakhon Sawan',NULL,NULL),
+	 (61,'อุทัยธานี','Uthai Thani',NULL,NULL),
+	 (62,'กำแพงเพชร','Kamphaeng Phet',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (63,'ตาก','Tak',NULL,NULL),
+	 (64,'สุโขทัย','Sukhothai',NULL,NULL),
+	 (65,'พิษณุโลก','Phitsanulok',NULL,NULL),
+	 (66,'พิจิตร','Phichit',NULL,NULL),
+	 (67,'เพชรบูรณ์','Phetchabun',NULL,NULL),
+	 (70,'ราชบุรี','Ratchaburi',NULL,NULL),
+	 (71,'กาญจนบุรี','Kanchanaburi',NULL,NULL),
+	 (72,'สุพรรณบุรี','Suphan Buri',NULL,NULL),
+	 (73,'นครปฐม','Nakhon Pathom',NULL,NULL),
+	 (74,'สมุทรสาคร','Samut Sakhon',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (75,'สมุทรสงคราม','Samut Songkhram',NULL,NULL),
+	 (76,'เพชรบุรี','Phetchaburi',NULL,NULL),
+	 (77,'ประจวบคีรีขันธ์','Prachuap Khiri Khan',NULL,NULL),
+	 (80,'นครศรีธรรมราช','Nakhon Si Thammarat',NULL,NULL),
+	 (81,'กระบี่','Krabi',NULL,NULL),
+	 (82,'พังงา','Phang-nga',NULL,NULL),
+	 (83,'ภูเก็ต','Phuket',NULL,NULL),
+	 (84,'สุราษฎร์ธานี','Surat Thani',NULL,NULL),
+	 (85,'ระนอง','Ranong',NULL,NULL),
+	 (86,'ชุมพร','Chumphon',NULL,NULL);
+INSERT INTO public.provinces (code,name_in_thai,name_in_english,created_at,updated_at) VALUES
+	 (90,'สงขลา','Songkhla',NULL,NULL),
+	 (91,'สตูล','Satun',NULL,NULL),
+	 (92,'ตรัง','Trang',NULL,NULL),
+	 (93,'พัทลุง','Phatthalung',NULL,NULL),
+	 (94,'ปัตตานี','Pattani',NULL,NULL),
+	 (95,'ยะลา','Yala',NULL,NULL),
+	 (96,'นราธิวาส','Narathiwat',NULL,NULL);
